@@ -1,4 +1,4 @@
-# Canvas Rounded Rectangle
+# Canvas Circle
 ## Geometry type for [canvas-tree](https://www.npmjs.com/package/canvas-tree)
 
 ### Creates Path2D object represented circle
